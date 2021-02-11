@@ -5,6 +5,8 @@ INSTALATION:
 	You can get a token by following the instruction on this web page: https://www.writebots.com/discord-bot-token/
 
 	Add your bot to the desired discord server. (Instructions in above link)
+	
+	You will also need to download ffmpeg to the program folder. https://ffmpeg.org/download.html
 
 USEAGE:
 	
