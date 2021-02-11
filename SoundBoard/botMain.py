@@ -103,4 +103,4 @@ if TOKEN != "":
     loop.run_until_complete(client.run(TOKEN))
     
 else:
-    print("No token for EngineerTF2 identified, please create engiToken.txt in the main directory containing a discord bot token")
+    print("No bot token identified, please create token.txt in the main directory containing a discord bot token")
