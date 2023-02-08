@@ -1,4 +1,4 @@
-INSTALATION:
+INSTALLATION:
 
 	You will need to create a bot token and paste it in the token.txt file located in this directory
 
@@ -8,7 +8,7 @@ INSTALATION:
 	
 	You will also need to download ffmpeg to the program folder. https://ffmpeg.org/download.html
 
-USEAGE:
+USAGE:
 	
 	Get whatever sound files you want (as a .WAV or .MP3) and put them in the Sounds folder inside of this directory.
 
